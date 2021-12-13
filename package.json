@@ -1,0 +1,25 @@
+{
+  "name": "dockerwebapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnmanuelMinaya/dockerWebApi.git"
+  },
+  "author": "eminaya28",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnmanuelMinaya/dockerWebApi/issues"
+  },
+  "homepage": "https://github.com/EnmanuelMinaya/dockerWebApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "temp-test-package": "^2.0.0"
+  }
+}
